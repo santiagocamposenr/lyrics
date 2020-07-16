@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lyrics/static/css/main.f54c6362.chunk.css",
+    "main.js": "/lyrics/static/js/main.a15a9238.chunk.js",
+    "main.js.map": "/lyrics/static/js/main.a15a9238.chunk.js.map",
+    "runtime-main.js": "/lyrics/static/js/runtime-main.a6e5084f.js",
+    "runtime-main.js.map": "/lyrics/static/js/runtime-main.a6e5084f.js.map",
+    "static/js/2.96603fb8.chunk.js": "/lyrics/static/js/2.96603fb8.chunk.js",
+    "static/js/2.96603fb8.chunk.js.map": "/lyrics/static/js/2.96603fb8.chunk.js.map",
+    "index.html": "/lyrics/index.html",
+    "precache-manifest.9aef8fe1dbe1a5f39cb885420af12f92.js": "/lyrics/precache-manifest.9aef8fe1dbe1a5f39cb885420af12f92.js",
+    "service-worker.js": "/lyrics/service-worker.js",
+    "static/css/main.f54c6362.chunk.css.map": "/lyrics/static/css/main.f54c6362.chunk.css.map",
+    "static/js/2.96603fb8.chunk.js.LICENSE.txt": "/lyrics/static/js/2.96603fb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6e5084f.js",
+    "static/js/2.96603fb8.chunk.js",
+    "static/css/main.f54c6362.chunk.css",
+    "static/js/main.a15a9238.chunk.js"
+  ]
+}
